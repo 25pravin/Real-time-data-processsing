@@ -42,7 +42,7 @@ Price adjusts based on nearby parking lots using latitude/longitude distance and
 
 ## 📊 Interactive Dashboard
 
-![Dashboard Preview](Real Time Data Processing
+![Dashboard Preview](dashboard_preview.png)
 ) <!-- Optional: Add your screenshot if uploaded -->
 
 The Bokeh dashboard shows:

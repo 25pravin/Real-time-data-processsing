@@ -42,7 +42,8 @@ Price adjusts based on nearby parking lots using latitude/longitude distance and
 
 ## 📊 Interactive Dashboard
 
-![Dashboard Preview](preview.png) <!-- Optional: Add your screenshot if uploaded -->
+![Dashboard Preview](Real Time Data Processing
+) <!-- Optional: Add your screenshot if uploaded -->
 
 The Bokeh dashboard shows:
 - Real-time pricing trends for each model
@@ -65,4 +66,4 @@ The Bokeh dashboard shows:
 - `dataset.csv` – Simulated input data
 - `README.md` – Project documentation (this fil)
 
-👤 GitHub: [@your-username](https://github.com/25pravin)
+👤 GitHub: [@25pravin](https://github.com/25pravin)
